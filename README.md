@@ -67,18 +67,8 @@ Aesthete-Captures/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Aesthete-Captures.git
+git clone https://github.com/rajnandinipatel28/Aesthete._.Captures
 ```
-
-2. Open the project folder
-
-```bash
-cd Aesthete-Captures
-```
-
-3. Launch `mini.html` in your browser.
-
----
 
 ## 💡 Future Improvements
 
