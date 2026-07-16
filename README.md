@@ -117,11 +117,9 @@ Feel free to fork the repository and create a pull request.
 
 ## 📬 Connect with Me
 
-GitHub: https://github.com/your-username
+GitHub: [https://github.com/rajnandinipatel28]
 
-Instagram: https://instagram.com/aesthete._.captures
-
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: [https://www.linkedin.com/in/rajnandinipatel/]
 
 ---
 
